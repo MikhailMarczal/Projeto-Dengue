@@ -1,0 +1,85 @@
+.container{
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.container .titulo-principal {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.container .input-field {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30px auto;
+    margin-bottom: 50px;
+    
+    
+}
+
+.input-field input {
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    font-size: 16px;
+    color: #000000;
+    padding: 10px 12px;
+    transition: transform 0.1s ease;
+}
+
+.input-field input:focus {
+    transform: scale(1.03); /* Aplica o zoom */
+    border-color: rgba(255, 255, 255, 0.5); /* (Opcional) Altera a cor da borda ao focar */
+}
+
+.input-field input::placeholder {
+    color: rgba(0, 0, 0, 0.5); 
+    font-size: 16px; 
+    opacity: 1;
+}
+
+.input-field .icon{
+    position: absolute;
+    right: 25px;
+    top: 50%;
+    transform: translateY(70%);
+    font-size: 18px;
+}
+
+.container button {
+    width: 100%;
+    height: 50px;
+    background-color: #4a4ad6;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 600;
+    text-shadow: none;
+    margin-top: 17px;
+    color: white;
+}
+.container button:hover{
+    background-color: #5a5ae6;
+}
+
+.titulo-input {
+    font-size: 16px; /* Define o tamanho da fonte */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    font-weight: 600; /* Deixa o texto um pouco mais grosso */
+    margin-bottom: 4px; /* Espaçamento entre o título e o input */
+    display: block; /* Garante que o título fique acima do input */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin-left: 3px;
+}
