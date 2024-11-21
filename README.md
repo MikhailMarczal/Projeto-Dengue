@@ -40,6 +40,5 @@ Este projeto foi desenvolvido utilizando o framework **Scrum**, um modelo de tra
 | Guilherme           | Design                         |
 | Edson               | Design                         |
 
-# Sobre o Projeto
-Este projeto foi desenvolvido como parte dos requisitos da disciplina de **Atividade Prática Supervisionada V**, ministrada pelo professor **Elio Ribeiro Faria Junior**. O trabalho foi realizado pelos alunos do último ano do curso de **Sistemas de Informação** da **UNIUV - Centro Universitário de União da Vitória - 2024**.
---
+## Sobre o Projeto
+- Este projeto foi desenvolvido como parte dos requisitos da disciplina de **Atividade Prática Supervisionada V**, ministrada pelo professor **Elio Ribeiro Faria Junior**. O trabalho foi realizado pelos alunos do último ano do curso de **Sistemas de Informação** da **UNIUV - Centro Universitário de União da Vitória - 2024**.
