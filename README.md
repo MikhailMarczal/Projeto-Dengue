@@ -12,6 +12,9 @@ O sistema foi idealizado para facilitar o trabalho da vigilância ambiental, per
 
 A aplicação será utilizada por agentes de saúde e gestores para melhorar a coleta de dados e apoiar decisões no controle da dengue.
 
+## Desenvolvimento
+Este projeto foi desenvolvido utilizando o framework **Scrum**, um modelo de trabalho ágil que permitiu a organização e a execução do desenvolvimento em ciclos iterativos, garantindo a entrega contínua de valor e a adaptação às necessidades do projeto.
+
 ## Funcionalidades
 - Interface simples e intuitiva para coleta de dados em campo.
 - Registro de informações sobre visitas realizadas.
@@ -22,6 +25,20 @@ A aplicação será utilizada por agentes de saúde e gestores para melhorar a c
 - Redução de erros manuais no processo de coleta.
 - Agilidade no registro e consulta de dados.
 - Melhor planejamento e execução das ações de controle da dengue.
+
+## Equipe de Desenvolvimento
+| Nome                | Função                         |
+|---------------------|--------------------------------|
+| Roberto Torres      | Product Owner                  |
+| Eduardo Aquiles     | Scrum Master                   |
+| Mikhail             | Desenvolvedor Front-End        |
+| Lucas               | Desenvolvedor Front-End        |
+| Roberto Tibes       | Desenvolvedor Front-End        |
+| Alexandre           | Desenvolvedor Front-End        |
+| Paulo               | Desenvolvedor Back-End         |
+| Gabriel Milosz      | Desenvolvedor Back-End         |
+| Guilherme           | Design                         |
+| Edson               | Design                         |
 
 ---
 
